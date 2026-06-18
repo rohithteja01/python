@@ -1,0 +1,5 @@
+word1=input()
+rohi1=int(word1)
+word2=input()
+rohi2=int(word2)
+print(rohi1*rohi2)
